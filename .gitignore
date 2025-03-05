@@ -1,0 +1,10 @@
+
+
+### IDE Files
+.idea
+.vs-code
+
+### Env Files
+.env
+.env.*
+!*.sample
